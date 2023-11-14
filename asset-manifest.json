@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0a395ac.css",
+    "main.js": "/static/js/main.8797042d.js",
+    "static/media/About_Me.jpg": "/static/media/About_Me.639d2df335a061ec3746.jpg",
+    "static/media/Kabaleeshwaran_resume_Final.pdf": "/static/media/Kabaleeshwaran_resume_Final.33ed9f2c4bfae609c0db.pdf",
+    "static/media/Me.JPG": "/static/media/Me.3d0ec6fe48c6cd76dff5.JPG",
+    "index.html": "/index.html",
+    "main.b0a395ac.css.map": "/static/css/main.b0a395ac.css.map",
+    "main.8797042d.js.map": "/static/js/main.8797042d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0a395ac.css",
+    "static/js/main.8797042d.js"
+  ]
+}
